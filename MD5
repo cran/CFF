@@ -1,0 +1,10 @@
+e7e0ab07f09542eb8ead6ed10d88c235 *DESCRIPTION
+9f422c4d0c307908487e498978e434f9 *NAMESPACE
+278647a13ad59e8e0e73a9c2d17181b3 *R/Score_replace.R
+e36e760f3384dcc6aa2e816753565f0d *R/simple_predict.R
+07255b9e18fbb544660447328f491ac9 *R/simple_similarity.R
+77928166e0944b9d2502934d23ac1592 *build/partial.rdb
+d25401e4e912cb9b95b364c0173e8b3b *man/CFF-package.Rd
+27abcb24c7fc9f47ccc65ccf12f9c8bc *man/Score_replace.Rd
+6b83104c905b561acf65f49d3fbc2d37 *man/simple_predict.Rd
+ca1b9da6e77353b5e8c981a808764ae4 *man/simple_similarity.Rd
